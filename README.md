@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 - 🚀 Fullstack Developer passionate about building robust and scalable applications.
-- 🔭 Currently working with **.NET**, **JavaScript/TypeScript**, **Python** and **Docker**.
+- 🔭 Currently working with **.NET**, **Python**, **Angular**,**React** and **Azure**.
 - 🌱 Always learning and exploring new technologies.
 - 🤝 Open to collaborating on interesting open-source projects.
 - 📬 Reach me at **jairourrego123@gmail.com**
