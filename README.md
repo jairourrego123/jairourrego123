@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jairo Miller Urrego 👋</h1>
-<h3 align="center">Fullstack Developer | .NET · JavaScript · Python · Docker</h3>
+<h3 align="center">Fullstack Developer | .NET · Python · Angular · React · Azure </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jairo-miller-urrego" target="_blank">
